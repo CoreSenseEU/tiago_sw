@@ -1,0 +1,61 @@
+repositories:
+  hri_msgs:
+    type: git
+    url: https://github.com/ros4hri/hri_msgs.git
+    version: humble-devel
+  hri_actions_msgs:
+    type: git
+    url: https://github.com/ros4hri/hri_actions_msgs.git
+    version: humble-devel
+  hri_privacy_msgs:
+    type: git
+    url: https://github.com/ros4hri/hri_privacy_msgs.git
+    version: humble-devel
+  libhri:
+    type: git
+    url: https://github.com/ros4hri/libhri.git
+    version: humble-devel
+  hri_person_manager:
+    type: git
+    url: https://github.com/ros4hri/hri_person_manager.git
+    version: humble-devel
+  human_description:
+    type: git
+    url: https://github.com/ros4hri/human_description.git
+    version: humble-devel
+  hri_face_detect:
+    type: git
+    url: https://github.com/ros4hri/hri_face_detect.git
+    version: humble-devel
+  hri_face_identification:
+    type: git
+    url: https://github.com/ros4hri/hri_face_identification.git
+    version: humble-devel
+  hri_body_detect:
+    type: git
+    url: https://github.com/ros4hri/hri_body_detect.git
+    version: humble-devel
+  hri_face_body_matcher:
+    type: git
+    url: https://github.com/ros4hri/hri_face_body_matcher.git
+    version: humble-devel
+  hri_engagement:
+    type: git
+    url: https://github.com/ros4hri/hri_engagement.git
+    version: humble-devel
+  hri_emotion_recognizer:
+    type: git
+    url: https://github.com/ros4hri/hri_emotion_recognizer.git
+    version: main
+  hri_emotion_models:
+    type: git
+    url: https://github.com/ros4hri/hri_emotion_models.git
+    version: main
+  knowledge_core:
+    type: git
+    url: https://github.com/severin-lemaignan/knowledge_core.git
+    version: humble-devel
+  openrobots-ontology:
+    type: git
+    url: https://github.com/severin-lemaignan/openrobots-ontology.git
+    version: humble-devel
